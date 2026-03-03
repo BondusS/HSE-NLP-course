@@ -1,3 +1,13 @@
-DS_Store
+.DS_Store
 anaconda_projects
 .idea
+.DS_Store
+.virtual_documents/
+HomeWork1/.DS_Store
+HomeWork1/.ipynb_checkpoints/
+HomeWork1/bert-base-ner-teacher/
+HomeWork1/bert-factorized-final/
+HomeWork1/bert-factorized/
+HomeWork1/bert-student-final/
+HomeWork1/bert-student/
+HomeWork1/bert-teacher-final/
